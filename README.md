@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Doini7/Doini7/main/banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Doini7/Doini7/main/banner.jpg" width="100%"/>
   
   <br/>
   
