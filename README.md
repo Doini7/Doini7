@@ -64,8 +64,10 @@ Currently focused on **clean architecture**, **cloud infrastructure**, and **sys
 
 <br/>
 
-![Doini7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doini7&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
+![Doini7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doini7&cache_seconds=60&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
+
 &nbsp;&nbsp;
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doini7&theme=transparent&hide_border=true&layout=compact&langs_count=8)
 
 </div>
